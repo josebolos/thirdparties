@@ -1,0 +1,24 @@
+{
+  "name": "thirdparties",
+  "version": "0.0.0",
+  "description": "Third party analyzer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josebolos/thirdparties.git"
+  },
+  "keywords": [
+    "third party",
+    "analyzer",
+    "performance"
+  ],
+  "author": "Jose Bolos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josebolos/thirdparties/issues"
+  },
+  "homepage": "https://github.com/josebolos/thirdparties#readme"
+}
